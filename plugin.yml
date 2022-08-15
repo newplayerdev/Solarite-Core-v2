@@ -1,0 +1,22 @@
+---
+name: SolariteCore
+main: NewPlayerMC\Solarite\Main
+version: 2
+api: ['3.0.0', '4.0.0']
+author: NewPlayerMC
+
+commands:
+  spawn:
+    description: Vous téléporter au spawn
+    usage: "/spawn"
+  minage:
+    description: Vous téléporter au minage
+    usage: "/minage"
+  ffa:
+    description: Vous téléporter au ffa
+    usage: "/ffa"
+
+permissions:
+  core.command.use:
+    description: acces commande admin
+    default: op

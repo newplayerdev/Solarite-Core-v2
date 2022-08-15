@@ -1,0 +1,25 @@
+---
+hubx: 6
+huby: 78
+hubz: -6
+hubworld: minage
+hub_teleportation_message: '§b[§eSpawn§b]§r Tu as été téléporté au spawn'
+
+minagex: 0
+minagey: 90
+minagez: 0
+minageworld: minage
+minage_teleportation_message: '§b[§eMinage§b]§r Tu as été téléporté au minage'
+
+ffax:
+ffay:
+ffaz:
+ffaworld: arene
+ffa_teleportation_message: '§b[§eFfa§b]§r Tu as été téléporté au ffa'
+
+boxx:
+boxy:
+boxz:
+boxworld: end
+box_teleportation_message: "§b[§eBox§b]§r Tu as été téléporté aux box"
+...
